@@ -11,12 +11,13 @@ the path of the directory is /Users/apple/Desktop/PUI2017
 >alias pui2017="cd $PUI2017"
 ### 4)type:
 >source ~/.bash_profile
+
+the screenshot of .bash_profile:
 ![bash_file](https://github.com/picniclin/PUI2017_yl5240/blob/master/screenshot%201.png)
 
 ## 3.check the alias path to the directory
 
->pwd
->pui2017
->pwd
+>pwd >pui2017 >pwd
 
+the screenshot:
 ![pwd](https://github.com/picniclin/PUI2017_yl5240/blob/master/screenshot%202.png)
