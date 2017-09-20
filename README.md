@@ -12,7 +12,7 @@ the path of the directory is /Users/apple/Desktop/PUI2017
 ### 4) type:
 > source ~/.bash_profile
 ### 5) take the screenshot of .bash_profile:
-![bash_file](https://github.com/picniclin/PUI2017_yl5240/blob/master/1.png)
+![bash_file](https://github.com/picniclin/PUI2017_yl5240/blob/master/screenshot/1.png)
 
 ## 3.check the alias path to the directory
 ### 1) show the present working directory
@@ -22,7 +22,7 @@ the path of the directory is /Users/apple/Desktop/PUI2017
 ### 3) show the new directory
 > pwd
 ### 4) take the screenshot:
-![pwd](https://github.com/picniclin/PUI2017_yl5240/blob/master/2.png)
+![pwd](https://github.com/picniclin/PUI2017_yl5240/blob/master/screenshot/2.png)
 
 ## 4.upload to github
 ### 1) create a new github repo
