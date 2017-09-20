@@ -16,8 +16,12 @@ the screenshot of .bash_profile:
 ![bash_file](https://github.com/picniclin/PUI2017_yl5240/blob/master/screenshot%201.png)
 
 ## 3.check the alias path to the directory
-
-> pwd > pui2017 > pwd
+show the present working directory
+> pwd 
+use the alias to move to the directory created
+> pui2017 
+show the new directory
+> pwd
 
 the screenshot:
 ![pwd](https://github.com/picniclin/PUI2017_yl5240/blob/master/screenshot%202.png)
