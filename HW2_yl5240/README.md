@@ -1,9 +1,9 @@
 ## 1. Introduction
 do the homework all by myself
 including 3 deliverables:
-show_bus_locations_yl5240.py
-get_bus_info_yl5240.py
-HW2_assignment3_yl5240.ipynb
+        show_bus_locations_yl5240.py
+        get_bus_info_yl5240.py
+        HW2_assignment3_yl5240.ipynb
 
 ## 2. Assignment 1 and 2
 The deliverables of assignment1 and assignment are python files as .py and could
@@ -17,7 +17,7 @@ python get_bus_info_yl5240.py xxxx-xxxx-xxxx-xxxx-xxxx <BUS_LINE> <BUS_LINE>.csv
 
 <BUS_LINE>.csv: the name should be exactly same with <BUS_LINE> in the same command. If not, the output will be "Please name the csv file according to the bus line data loaded."
 
-*in the assignment, I use the "MonitoredCall" instead of "OnwardCall", which I think make more sense. Because "MonitoredCall" is the next stop information of each bus on roads, and "OnwardCall" includes the next stops'information, from the next stop to the last stop, of each bus on roads. That's why there is "OnwardCall" under "OnwardCalls".*
+**in the assignment, I use the "MonitoredCall" instead of "OnwardCall", which I think make more sense. Because "MonitoredCall" is the next stop information of each bus on roads, and "OnwardCall" includes the next stops'information, from the next stop to the last stop, of each bus on roads. That's why there is "OnwardCall" under "OnwardCalls".**
 
 ## 3. assignment 3
 this Jupyter notebook is writen on compute via the below SSH tunnel command 
