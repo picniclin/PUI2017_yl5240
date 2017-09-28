@@ -33,7 +33,7 @@ and the [address](https://localhost:8000)
 
 Instructions could be got from [here](https://datahub.cusp.nyu.edu/sites/default/files/documents/guides/Jupyter_Notebook_from_your_browser_Mac.pdf)
 
-Since the CUSP data facility (DF) is currently unavailable, I fetch csv files in the data facility NYCopendata directory by running in notebook (on JupyterHub) the command:
+Since the [CUSP data facility](https://datahub.cusp.nyu.edu/data-catalog) (DF) is currently unavailable, I fetch csv files in the data facility NYCopendata directory by running in notebook (on JupyterHub) the command:
 
         !ls $DFDATA/*/*csv
         
@@ -41,7 +41,7 @@ the environmental variable DFDATA points to
 
         /gws/open/NYCOpenData/nycopendata/data/
         
-9 csv  datasets could be fetched and I choose the 4th dataset, which include two numerial columns.
+9 csv  datasets could be fetched and I choose the 4th dataset, which includes two numerial columns.
 
 
 
