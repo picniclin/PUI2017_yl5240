@@ -18,16 +18,29 @@ be run by the commands below respectively:
 
 <MTA_KEY>: is a MTA Bus Time API Key. It could request got from http://bustime.mta.info/wiki/Developers/Index
 
-<BUS_LINE>: should be a string of the actual MTA Bus Line. If not, the output will be "'There is no Bus line : ' + str(BUS_LINE)"
+<BUS_LINE>: should be a string of the actual MTA Bus Line. If not, the output will be "'There is no Bus line : ' str(BUS_LINE)"
 
 <BUS_LINE>.csv: the name should be exactly same with <BUS_LINE> in the same command. If not, the output will be "Please name the csv file according to the bus line data loaded."
 
-**in the assignment, I use the "MonitoredCall" instead of "OnwardCall", which I think make more sense. Because "MonitoredCall" is the next stop information of each bus on roads, and "OnwardCall" includes the next stops'information, from the next stop to the last stop, of each bus on roads. That's why there is "OnwardCall" under "OnwardCalls".**
+**In the assignment 2, I use the "MonitoredCall" instead of "OnwardCall", which I think make more sense. Because "MonitoredCall" is the next stop information of each bus on roads, and "OnwardCall" includes the next stops'information, from the next stop to the last stop, of each bus on roads. That's why there is "OnwardCall" under "OnwardCalls".**
 
 ## 3. assignment 3
-this Jupyter notebook is writen on compute via the below SSH tunnel command
+This Jupyter notebook is writen on NYU CUSP compute via the below SSH tunnel command 
 
         ssh yl5240@gw.cusp.nyu.edu -L 8000:compute.cusp.nyu.edu:8000
         
-and enter the [address](https://localhost:8000)
+and the [address](https://localhost:8000)
 Instructions could be got from [here](https://datahub.cusp.nyu.edu/sites/default/files/documents/guides/Jupyter_Notebook_from_your_browser_Mac.pdf)
+
+Since the CUSP data facility (DF) is currently unavailable, I fetch csv files in the data facility NYCopendata directory by running in notebook (on JupyterHub) the command:
+
+        !ls $DFDATA/*/*csv
+        
+the environmental variable DFDATA points to 
+
+        /gws/open/NYCOpenData/nycopendata/data/
+        
+9 csv  datasets could be fetched and I choose the 4th dataset, which include two numerial columns.
+
+
+
