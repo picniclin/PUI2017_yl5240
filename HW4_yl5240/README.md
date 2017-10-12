@@ -30,9 +30,11 @@ t-Test	| 1, types of music | categorical | 1, mood condition | ordinary | 2,  li
 reproduce the result in http://www.mdrc.org/sites/default/files/What%20Strategies%20Work%20for%20the%20Hard%20FR.pdf
 
 Use Z test and Chi-squared test to check the statistical difference between test sample and control sample.
-The datasets has been analysized:
+The analysized data and H0 hypotheses:
 - "Ever employed in a CEO transitional job" data
+   *H0： the % of former prisoners employed after release is the same or lower for candidates who participated in the program as for the control group, significance level p=0.05*
 - "Convicted of a felony after 3 years" data
+   *H0： the % recidivism of  being convicted of a felony is the same or higher for candidates who participated in the program as for the control group, significance level p=0.05*
 
 ## Assignment 4: Tests of correlation using the scipy package with citibike data
 
