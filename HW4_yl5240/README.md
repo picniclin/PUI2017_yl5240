@@ -2,7 +2,7 @@
 - Fork Srikanth's repo [srikanth261/PUI2017_sn2495](https://github.com/srikanth261/PUI2017_sn2495)
 - Review his HW3_Assignment's hypothesis and data processed
 - Propose to take t test or Z test for his hypothesis according to his hypothesis and the data type of varialbes
-- The two steps above is written down in a markdown file, which could be found in [here](https://github.com/picniclin/PUI2017_sn2495/blob/master/HW3_sn2495/CitibikeReview_yl5240.md) 
+- The two steps above is written down in a markdown file, which could be found [here](https://github.com/picniclin/PUI2017_sn2495/blob/master/HW3_sn2495/CitibikeReview_yl5240.md) 
 - Submit a pull request to Srikanth's repo. The request has been merged, which could be found [here](https://github.com/srikanth261/PUI2017_sn2495/tree/master/HW3_sn2495).
 
 ## 2. Assignment 2:Literature choices of statistical tests
