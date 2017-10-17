@@ -49,3 +49,5 @@ Three comparison of 2-sample has been analysized seperatly:
 
 The results are similar:
 the two distributions are highly correlatedare, but not from the same distribution.
+
+In the last analysis, **the location data is filtered by ArcGis, using the longitude and latitude data of citi bike, but the data is still incomplete. I will update the data afterwards.**
