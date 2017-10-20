@@ -9,7 +9,7 @@ will be updated later
 6:30 PM Oct. 20
 
 ****
-### Assignment 1. Work from the [skeleton notebook] (https://github.com/fedhere/PUI2017_fb55/blob/master/HW6_fb55/building_nrg_instructions.ipynb) with the inline instructions.
+### Assignment 1. Work from the [skeleton notebook](https://github.com/fedhere/PUI2017_fb55/blob/master/HW6_fb55/building_nrg_instructions.ipynb) with the inline instructions.
 **Turn in as a notebook**, you can work in groups as usual, have a statement of the work balance in the group as usual.
 
 
