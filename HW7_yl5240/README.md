@@ -1,6 +1,6 @@
 ## Assignment 1: Finish Citibike miniproject
 
-**
+
 1. make an account on [Authorea](https://www.authorea.com/). Authorea is a collaborative writing platform. It is likely the platform that we will used for the capstone reports so please begin familiarizing with it now.
 
 2. Finish the Citibike analysis in HW3 in a notebook. Perform the appropriate statistical test. 
@@ -24,14 +24,12 @@ Incorporate the notebook in the Authorea paper following [these instructions](ht
 
 
 NOTES: 
-  - look for your classmate's review in HW3, HW4 and in the main repo. It should have been uploaded to HW3, but some people got creative with the destination. 
-  - do not assume that the content of the review is right, wheather I commented on it or not! think for yourselves whether you want to incorporate it and justify it.
-  - If you did not get a review by a classmate I am uploading a review for you. 
-  - If you have ** NOT ACCEPTED THE PULL REQUEST THAT CONTAINS THE REVIEW ** that is your fault and points will be deducted if the review is not uploaded and considered in your report.
   - There is some confusion about the various chi sq tests, including understandable confusion arising from the various flowcharts that help chosing tests. In general, if you want to test 2 proportions use the chi sq as we did for the ex-convict job reintegration exercise (most commonly called chi sq test for proportions)
   - There is some confusion about the word "parametric": a parametric test means a test that assumes something about the variables tested (often that they are Gaussian distributed). The data is not parametric, the data can follow a distribution or functional form, so that you can use a parametric test, or it does not (or you cannot tell) and then you should use a non-parametric test (or at least acknowledge that the test you use makes assumptions that may not be correct)
   
 ### Grading 
 
 be graded on the quality of the writing, as well as the correctness of the analysis. 
+
+
 be graded on whether you have discussed and considered the recommandations of your "referees", the classmates that reviewed your proposal.
