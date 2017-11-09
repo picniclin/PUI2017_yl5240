@@ -1,4 +1,6 @@
-## Assignment 1: Finish Citibike miniproject
+## Assignment 1: Citibike miniproject
+
+The article linkage: https://www.authorea.com/users/175993/articles/211839-who-prefer-longer-citibike-riding-men-or-women
 
 
 1. make an account on [Authorea](https://www.authorea.com/). Authorea is a collaborative writing platform. It is likely the platform that we will used for the capstone reports so please begin familiarizing with it now.
