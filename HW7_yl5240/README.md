@@ -3,8 +3,7 @@
 The article linkage: https://www.authorea.com/users/175993/articles/211839-who-prefer-longer-citibike-riding-men-or-women
 
 
-1. make an account on [Authorea](https://www.authorea.com/). Authorea is a collaborative writing platform. It is likely the platform that we will used for the capstone reports so please begin familiarizing with it now.
-
+1. make an account on [Authorea](https://www.authorea.com/). 
 2. Finish the Citibike analysis in HW3 in a notebook. Perform the appropriate statistical test. 
 Incorporate classmate's comment  where appropriate, and when you are not incorporating them discuss why the suggestions were not embraced.
 
