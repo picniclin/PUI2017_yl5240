@@ -1,3 +1,4 @@
+# Finish HW7 all by myself.
 ## Assignment 1: Citibike miniproject
 
 The article linkage: https://www.authorea.com/users/175993/articles/211839-who-prefer-longer-citibike-riding-men-or-women
@@ -28,3 +29,9 @@ NOTES from Bianco:
   - There is some confusion about the word "parametric": a parametric test means a test that assumes something about the variables tested (often that they are Gaussian distributed). The data is not parametric, the data can follow a distribution or functional form, so a parametric test can be used, or a non-parametric test should be used (or at least acknowledge that the test makes assumptions that may not be correct)
 
 - Be graded on the quality of the writing, as well as the correctness of the analysis; also on whether you have discussed and considered the recommandations of your "referees", the classmates that reviewed your proposal.
+
+
+## Assignment2: SQL query
+SQL lab [Instructions](https://serv.cusp.nyu.edu/~hvo/files/SQL_Lab.pdf)
+
+Start with the [SQL_query notebook](https://github.com/fedhere/PUI2017_fb55/blob/master/HW7_fb55/SQL_query.ipynb) and submit the sql queries through the carto API
