@@ -1,5 +1,7 @@
 __Plot:__ Five borough's median values of the census tracts' income and house value in 2010
+
 __Author:__  Yuwei Lin (yl5240)
+
 __Reviewer__ Srikanth Namuduri (sn2495) 
 
 Below is the plot being reviewed:
