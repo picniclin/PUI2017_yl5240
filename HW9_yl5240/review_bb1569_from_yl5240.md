@@ -7,6 +7,6 @@ I have checked the definition of the term temperature anomaly and its common use
 
 
 Nonetheless, some **improvements** could be made for this plot:
-1) The meaning of the **color gradient** is not expressed on the plot. Although it’s not hard to speculate that harder for higher anomaly, both positive and negative, you cannot suppose readers have the ability or obligation to understand what you’ve not stated. Furthermore, the deviation extent has been reflected on the height of the bar, so there’s no need to use the color gradient to do it again. In a word, This coloring is not only an unclear expression, but also redundancy.
+1) The meaning of the **color gradient** is not expressed on the plot. Although it’s not hard to speculate that darker for higher anomaly, both positive and negative, you cannot suppose readers have the ability or obligation to understand what you’ve not stated. Furthermore, the deviation extent has been reflected on the height of the bar, so there’s no need to use the color gradient to do it again. In a word, This coloring is not only an unclear expression, but also redundancy.
 2) It would be better to set a secondary y-axis on the right measured as degree centigrade. For the readers of non-American, it’s hard to get effective information from Fahrenheit degree.
 
