@@ -7,3 +7,5 @@ Do it all by myself.
 This assignment is designed to familiarize you with the US [Census data](https://www.census.gov/) (really the 1-year survey data) and at the same time to make you exercise with spatial analysis in geopandas. The goal is to assess if the [linkNYC](https://www.link.nyc/) stations are located to provide a useful service and to fill in a need. Y
 
 Work with the American Fact Finder data via API and direct download, and with NYC shapefiles. 
+
+[geopandas_census_instructions.ipynb](https://github.com/fedhere/PUI2017_fb55/blob/master/HW9_fb55/geopandas_census_instructions.ipynb)
